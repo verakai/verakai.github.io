@@ -1,9 +1,59 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+- company: Thinkful
+  link: www.thinkful.com
+  job_title: Data Science - Academic Projects
+  dates: October 2017 - October 2018
+#  quote: >
+#   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Data Science program that includes Python, SQL, data cleaning, statistics, visualizations, and both supervised and unsupervised learning techniques.
+
+- company: Non-disclosed projects 
+  #link: www.thinkful.com
+  job_title: Capital investment and managing partner
+  dates: January 2017 – March 2019
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Developing two different projects in the financial and agroindustry business.
+
+- company: Artiko Ltd.
+  #link: www.thinkful.com
+  job_title: Capital investment partner
+  dates: August 2007 – January 2019
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Build to rent vehicles to mining and oil enterprises
+ 
+
+- company: Sauce Chico SA
+  #link: www.thinkful.com
+  job_title: Capital investment partner
+  dates: August 2012 – January 2019
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Involved in key decision regarding farming aspects
+    Incorporated to generate value and consistency in the farming business in several aspects that involved contracts, human resources, and technology investment
+
+- company: Plus Energy Ltd. 
+  #link: www.thinkful.com
+  job_title: Managing partner
+  dates: June 2009 – April 2012
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Built as an electrical engineering (EE) consulting firm
+    Added execution of EE projects 
+    Managed the projects’ logistics, supplies, tender planification, etc,  as a whole from start to end
+
+- company: Estudiopro Ltd.
+  #link: www.thinkful.com
+  job_title: Capital investment partner
+  dates: January 2008 – July 2012
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Involved in generating value to this advertising company investing in innovative equipments and qualified human resources
+    Participated in client oriented decision in the board of directors

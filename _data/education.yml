@@ -1,8 +1,21 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+- name: Thinkful
+  dates: October 2017 - October 2018
+  qualification: Data Science Immersive | Artificial Intelligence
+#  quote: >
+#    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Completed intensive data science program with a focus on Python, mathematical tool-sets, statistical analysis, and big data techniques including machine learning.
+    Learned industry best practices and standards by collaborating several hours every week with a senior data scientist.
+
+- name: Universidad Nacional de San Juan  
+  dates: 2003 - 2007
+  qualification: Civil Engineering
+
+- name: Universidad Nacional de San Juan  
+  dates: 2003 - 2005
+  qualification: Astronomy
+
+- name: St. Andrews Scots School
+  dates: 1991 - 2002
+  qualification: I.B. INTERNATIONAL BACCALAUREATE / I.G.C.S.E. (Diploma)
