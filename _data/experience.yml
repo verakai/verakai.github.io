@@ -8,14 +8,14 @@
   description: | # this will include new lines to allow paragraphs
     Data Science program that includes Python, SQL, data cleaning, statistics, visualizations, and both supervised and unsupervised learning techniques.
 
-- company: Non-disclosed projects 
+- company: Self-employed trader 
   #link: www.thinkful.com
   job_title: Capital investment and managing partner
   dates: January 2017 – March 2019
 #  quote: >
 #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Developing two different projects in the financial and agroindustry business.
+    Applied machine learning algorithms to aid my manual trading decisions in stocks, indices, futures and foreign exchange, for different time-frames: intraday and medium/long term positions.
 
 - company: Artiko Ltd.
   #link: www.thinkful.com
