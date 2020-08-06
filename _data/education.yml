@@ -1,4 +1,27 @@
 # Education Template
+- name: Google
+  dates: 2020 - 2020
+  qualification: TensorFlow Developer Certificate
+#  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Certificate ID: 21305028
+
+- name: MITx
+  dates: 2019 - 2020
+  qualification: MITx Micromasters Program in Statistics and Data Science
+#  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    6.86x: Machine Learning with Python-From 
+    Linear Models to Deep Learning | Credential ID: d49758f29d1a464c90957f5999913cf3
+
+    6.431x: Probability - The Science of 
+    Uncertainty and Data | Credential ID: aae275b6e2304933be951d6d54d63d64
+
+    18.6501x: Fundamentals of Statistics | Credential ID: 0183f6d2701d40078a862a3bbf2f27bb
+
+
 - name: Thinkful
   dates: October 2017 - October 2018
   qualification: Data Science Immersive | Artificial Intelligence
