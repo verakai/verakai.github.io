@@ -1,6 +1,6 @@
 # Project template
 - name: Predicting user’s demographics
-  link: http://tiny.cc/pred_demog
+  link: http://tinyurl.com/preddemog
   github: https://github.com/verakai/Thinkful/blob/master/Final%20Capstone/Final%20Capstone%20GH.ipynb
 #  quote: >
 #    Short overview of the project (optional)
@@ -8,7 +8,7 @@
     Using a dataset from China’s largest third-party mobile data platform, TalkingData, the objective was to predict user’s demographics characteristics which in return gives us valuable information that can help millions of developers and brand advertisers pursue data-driven marketing efforts which are relevant to their users and catered to their preferences.
 
 - name: Determining Telco Churning
-  link: http://tiny.cc/telco_churn
+  link: http://tinyurl.com/telcochurn
   github: https://github.com/verakai/Thinkful/blob/master/Mid%20term%20capstone/Mid%20term%20capstone%20Final.ipynb
 #  quote: >
 #    Short overview of the project (optional)
@@ -16,7 +16,7 @@
     Training and testing data from 7042 customers from a Telco with eight different supervised models, the script was able to predict customer churn with a 78 % accuracy. The algorithm also determined the most important features and variables that influence this churn, and who are most likely to leave or stay at the given moment.
 
 - name: Author detection
-  #link: http://tiny.cc/telco_churn
+  link: http://tinyurl.com/authordetec
   github: https://github.com/verakai/Thinkful/blob/master/4.5.1%20Unsupervised%20Learning%20Capstone.ipynb
 #  quote: >
 #    Short overview of the project (optional)
